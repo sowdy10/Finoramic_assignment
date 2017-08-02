@@ -1,0 +1,7 @@
+Problem: Given two strings S and T, 
+find out whether any anagram of T is a Substring of S. 
+DefinitionAnagram: Any permutation of string - eg. leg,gel,egl,elg are all anagrams
+Substring: Continuous sequence of characters of a string
+Goo is substring of Google but Gog is not. 
+Example:A = Google, B = Gog Answer: FalseA= Google, B = Goo Answer: True 
+A=Google, B = Got Answer: False
